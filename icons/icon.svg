@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f7f3ea"/>
+  <rect x="56" y="56" width="400" height="400" rx="72" fill="#14110f"/>
+  <rect x="56" y="420" width="400" height="36" fill="#ff3b1f"/>
+  <circle cx="256" cy="168" r="16" fill="#00c2a8"/>
+  <text x="256" y="300" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-size="84" font-weight="800">
+    <tspan fill="#f7f3ea">SIPA</tspan><tspan fill="#ff3b1f">SEN</tspan>
+  </text>
+</svg>

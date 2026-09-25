@@ -1,2 +1,5 @@
-# sipasen
-Site PWA SIPASEN — industrie du polystyrène, Dakar
+# SIPASEN
+
+Site PWA — industrie du polystyrène à Dakar.
+
+Lien Pages : https://termavoyages.github.io/sipasen/

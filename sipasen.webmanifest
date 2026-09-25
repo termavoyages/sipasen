@@ -1,0 +1,19 @@
+{
+  "name": "SIPASEN",
+  "short_name": "SIPASEN",
+  "description": "Industrie du polystyrène expansé à Dakar depuis 1989.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#14110f",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
